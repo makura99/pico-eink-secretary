@@ -1,0 +1,19 @@
+{
+    "model_name": "gemma4:e2b",
+    "owm_api_key": "OWM_API_KEY",
+    "ical_url": "ICAL_URL",
+    "default_location": "yokohama",
+    "news_rss_url": "https://news.google.com/rss?hl=ja&gl=JP&ceid=JP:ja",
+    "locations": {
+        "yokohama": {
+            "name": "横浜",
+            "lat": "35.4433",
+            "lon": "139.6367"
+        },
+        "hakone": {
+            "name": "箱根",
+            "lat": "35.1116",
+            "lon": "139.0146"
+        }
+    }
+}
