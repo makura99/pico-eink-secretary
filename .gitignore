@@ -1,0 +1,7 @@
+# 秘密情報・本番設定ファイル
+pico/secrets.py
+config.json
+
+# OS固有の隠しファイル
+.DS_Store
+Thumbs.db
